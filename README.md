@@ -1,4 +1,4 @@
-🍬**Candy Sorting Express** 
+# Candy Sorting Express 
 A fast-paced, level-based sorting game where players match candies by color before time runs out! 
 
 📖 **About**  
