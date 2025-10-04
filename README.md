@@ -1,1 +1,1 @@
-# Candy-Sorting-Express
+Candy Sorting Express is a level based, fun, fast-paced game where you collect and sort candies by color before time runs out. Pick your color, drag the picker to gather matching candies, and drop them into the right spot. Use coins to unlock power-ups like extra time and bigger capacity to boost your gameplay.
